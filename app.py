@@ -79,6 +79,7 @@ def index():
     <!doctype html>
     <title>Art by GANs Inc</title>
     <h1>Art by GANs Inc</h1>
+    <a rel="nofollow" target="_blank", href="https://github.com/rmoreira/csce5215-colab-flaskapp">Link to download images</a><br><br>
     <a rel="nofollow" target="_blank", href="/van_gogh_art_to_real">van_gogh_art_to_real</a><br>
     <a rel="nofollow" target="_blank", href="/van_gogh_real_to_art">van_gogh_real_to_art</a><br>
     <a rel="nofollow" target="_blank", href="/monet_art_to_real">monet_art_to_real</a><br>
